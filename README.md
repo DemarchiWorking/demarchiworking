@@ -39,11 +39,6 @@ Hoje buscando atuar como Engenheiro de Software, utilizando a plataforma .NET e 
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=9400d3)
 
 
-<a href="https://github.com/andfilipe1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andfilipe1&theme=dark&show_icons=true" />
-</a>
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
 ## Seja bem vindo
 <div align="center">
   <a href="https://github.com/demarchiworking">
