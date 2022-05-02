@@ -1,4 +1,49 @@
 ## Olá!
+# Seja muito bem-vindo(a)! 👋
+
+Hoje buscando atuar como Engenheiro de Software, utilizando a plataforma .NET e SQL Server/Oracle.
+
+---
+**Tecnologias:**
+
+ **Linguagens:**
+<!--   ![C#](https://img.shields.io/badge/--333333?logo=csharp&style=flat&logoColor=white) -->
+  ![.NET](https://img.shields.io/badge/-.NET-333333?logo=windows&style=flat&logoColor=1572B6)
+  <!-- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)-->
+<!--   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) -->
+<!--   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6) -->
+  
+ **Banco de Dados:**
+ 
+  ![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=microsoftsqlserver)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Mongodb](https://img.shields.io/badge/-Mongodb-333333?style=flat&logo=Mongodb)
+  
+ **InfraEstrutura:**
+ 
+ ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+**Utilidades:**
+
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps:**
+
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Ferramentas de Desenvolvimento:**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=9400d3)
+
+
+<a href="https://github.com/andfilipe1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andfilipe1&theme=dark&show_icons=true" />
+</a>
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
 ## Seja bem vindo
 <div align="center">
   <a href="https://github.com/demarchiworking">
