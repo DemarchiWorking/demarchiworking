@@ -1,8 +1,10 @@
 ## Olá!
 # Seja muito bem-vindo(a)! 👋
 
+
 Hoje buscando atuar como Engenheiro de Software, utilizando a plataforma .NET e SQL Server/Oracle.
 
+https://www.linkedin.com/in/demarchi1/
 ---
 **Tecnologias:**
 
