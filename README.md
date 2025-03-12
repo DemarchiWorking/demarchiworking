@@ -41,11 +41,6 @@ https://www.linkedin.com/in/demarchi1/
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=9400d3)
 
 
-<div align="center">
-  <a href="https://github.com/demarchiworking">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=demarchiworking&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demarchiworking&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Demarchi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Demarchi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
